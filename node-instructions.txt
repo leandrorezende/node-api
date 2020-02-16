@@ -1,0 +1,10 @@
+create a folder
+navegate into it
+run the command "npm init -y" to create o package.json to storage dependencies and version 
+npm install express -> microframeork for views and routes
+
+to run the project go to the root folder and run: node server.js or npm start
+
+npm install -D nodemon
+config "dev": "nodemon server.js" at package.json file
+run the project by running: npm run dev
